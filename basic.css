@@ -133,7 +133,7 @@ header ul li a{
 }
 
  #first {
-	background: url('../img/au.jpg') no-repeat;
+	background: url('au.jpg') no-repeat;
 	background-position: center left;
 	width: 100%;
 	background-size: 100%;
@@ -201,7 +201,6 @@ header ul li a{
 	width: 100%;
 	padding: 10px 0px;
 	position: relative;
-	/*background: rgba(0,0,0,.4);*/
 }
 
 #down{
